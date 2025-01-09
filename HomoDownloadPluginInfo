@@ -1,9 +1,0 @@
-[Plugin]
-PluginCout=1
-[Plugin1]
-Name=Homo插件
-DownloadWebAddress=https://github.com/Drumda/MIT-Toolkit-Plugin/raw/refs/heads/main/homo%20plugin.zip
-IconDownloadAddress=https://github.com/Drumda/MIT-Toolkit-Plugin/raw/refs/heads/main/Icon/homo.ico
-FontColor=-52429
-MD5=1BD598D2E667824BCB8A6CC0A0F66F99
-tips=哼 哼 啊啊啊啊啊啊啊啊啊啊啊啊啊啊~~~~~
